@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT" />
+        </compositeConfiguration>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CeilingDemo" />
+            <option value="$PROJECT_DIR$/CustomDatePicker" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/apps" />
+            <option value="$PROJECT_DIR$/axure" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/dialog" />
+            <option value="$PROJECT_DIR$/dialogpick" />
+            <option value="$PROJECT_DIR$/mytogglebutton" />
+            <option value="$PROJECT_DIR$/otherrecyclerviewtype" />
+            <option value="$PROJECT_DIR$/rcvtype" />
+            <option value="$PROJECT_DIR$/refreshrecyclerview" />
+            <option value="$PROJECT_DIR$/rsa" />
+            <option value="$PROJECT_DIR$/takephoto" />
+            <option value="$PROJECT_DIR$/test" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
